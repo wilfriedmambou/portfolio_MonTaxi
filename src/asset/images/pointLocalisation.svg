@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M0 0H30V30H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Composant_131_1" clip-path="url(#clip-path)">
+        <path id="Rectangle_305" d="M0 0H30V30H0z" class="cls-1"/>
+        <path id="Tracé_114" fill="#f5a202" fill-rule="evenodd" d="M12.315 17.8a5.224 5.224 0 0 0 5.234-5.234 5.385 5.385 0 0 0-5.234-5.421 5.224 5.224 0 0 0-5.234 5.235 5.517 5.517 0 0 0 5.234 5.42zM3.53 3.595a12.424 12.424 0 1 1 17.57 17.57l-8.785 8.785-8.785-8.785a12.763 12.763 0 0 1 0-17.57z" transform="translate(.975 .05)"/>
+    </g>
+</svg>
